@@ -12,7 +12,7 @@ const certificates = [
       "https://prathimay2k.github.io/prathima.github.io/assets/deloittecertificate.jpg",
     link:
       "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_kxkoPGNErASk7mqm3_1751722614066_completion_certificate.pdf"
-  }
+  },
   {
     id: generateId(),
     title: "Quantium Data Analytics Completion Certificate",

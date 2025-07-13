@@ -20,7 +20,7 @@ const projects = [
   link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/Bus_Breakdown_and_Delays_NYC%20Project',
   image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
   alt: 'Excel NYC Bus Delay Analysis'
-},
+},/*
  {
   id: generateId(),
   category: 'excel',
@@ -74,7 +74,7 @@ const projects = [
    image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
   alt: 'Vehicle Crash Report VBA Macro'
 },
-
+*/
 
 
    /*PowerBI*/

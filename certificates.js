@@ -4,18 +4,6 @@
 }
 
 const certificates = [
-
-{
-  id: generateId(),
-  title: "MySQL Interview Crash Course Certificate",
-  description:
-    "Completed a focused training on MySQL fundamentals tailored for technical interviews. Covered query writing, filtering, joins, subqueries, and real-world problem solving using SQL best practices.",
-  image:
-    "https://drive.google.com/thumbnail?id=1IPN6DcvJXuyYMcYY6bwVBT2ORknYDvNX",
-  link:
-    "https://www.analystbuilder.com/achievements/verify/Y69G38S60C?r=DXJeBIXWnZaOYO5QTIVN8Ag0b"
-},
-
 {
   id: generateId(),
   title: "Python Interview Crash Course Certificate",

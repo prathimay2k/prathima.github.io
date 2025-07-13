@@ -5,7 +5,7 @@ function generateId(length = 8) {
 const certificates = [
   {
     id: generateId(),
-    title: "Python Interview Crash Course Certificate",
+    title: "Deloitte Australia Data Analytics Completion Certificate",
     description:
       "Completed an intensive crash course on Python fundamentals geared toward technical interviews. Covered core concepts such as data types, control flow, functions, OOP, and real-world problem-solving using Python best practices.",
     image:

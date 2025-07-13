@@ -28,7 +28,7 @@ const certificates = [
 },
 ];
 
-function generateId(length = 8) {
+function generateId(length = 4) {
   return 'proj-' + Math.random().toString(36).substr(2, length);
 }
 

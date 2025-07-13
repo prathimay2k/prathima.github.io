@@ -39,7 +39,7 @@ function renderCertificates() {
   }).join("");
 
   // İçeriği 2 kez ekle (sonsuz scroll için)
-  container.innerHTML = fullContent + fullContent;
+  container.innerHTML = fullContent ;
 }
 
 document.addEventListener("DOMContentLoaded", renderCertificates);

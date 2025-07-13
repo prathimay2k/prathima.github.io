@@ -13,16 +13,6 @@ const certificates = [
     link:
       "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_kxkoPGNErASk7mqm3_1751722614066_completion_certificate.pdf"
   }
-  {
-    id: generateId(),
-    title: "Quantium Data Analytics Completion Certificate",
-    description:
-      "Completed an intensive crash course on Python fundamentals geared toward technical interviews. Covered core concepts such as data types, control flow, functions, OOP, and real-world problem-solving using Python best practices.",
-    image:
-      "/assets/deloitte certificate.jpg",
-    link:
-      "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_kxkoPGNErASk7mqm3_1751722614066_completion_certificate.pdf"
-  }
   ];
 
 function renderCertificates() {

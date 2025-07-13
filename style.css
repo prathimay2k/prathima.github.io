@@ -160,14 +160,14 @@ section {
 
 /* Slider */
 .slider-container {
-  overflow-x: auto;
-  white-space: nowrap;
-  padding: 20px 0;
-  overflow-x: scroll;
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none;  /* IE and Edge */
-  
+  padding: 2rem 0;
+  display: flex;
+  flex-wrap: wrap;         /* Wraps to next line instead of scrolling */
+  gap: 2rem;
+  justify-content: center; /* Center cards */
+  overflow: visible;       /* Removes horizontal scroll */
 }
+
 .slider-container::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
 }

@@ -19,7 +19,7 @@ const certificates = [
     description:
       "Completed an intensive crash course on Python fundamentals geared toward technical interviews. Covered core concepts such as data types, control flow, functions, OOP, and real-world problem-solving using Python best practices.",
     image:
-      "https://prathimay2k.github.io/prathima.github.io/assets/deloittecertificate.jpg",
+      "https://prathimay2k.github.io/prathima.github.io/assets/quantiumcertificate.jpg",
     link:
       "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_kxkoPGNErASk7mqm3_1750359663144_completion_certificate.pdf"
   }

@@ -97,23 +97,6 @@ const projects = [
   image: 'https://cdn-icons-png.flaticon.com/512/5968/5968350.png',
   alt: 'Python Crypto Price Scraper Project'
 },
-{
-  "id": generateId(),
-  "category": "python",
-  "title": "Most Used Word Finder",
-  "shortDesc": "A Python script that analyzes a given text file to find and rank the most frequently used words.",
-  "longDesc": "This project leverages Python and its built-in libraries to perform frequency analysis on any text file. The script reads the content, cleans and tokenizes the text, removes common stopwords, and outputs a ranked list of the most-used words. It is modular and easily adaptable for larger-scale NLP tasks in the future.",
-  "highlights": [
-    "Text parsing and word frequency analysis",
-    "Stopword removal and case normalization",
-    "Customizable text preprocessing steps",
-    "Terminal output and optional CSV export"
-  ],
-  "link": "https://github.com/giraysengonul/Python-Projects/tree/main/Most-Used-Word-Finding-Project",
-  "image": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
-  "alt": "Python Most Used Word Finder Project"
-},
-
 /*SQL*/
 
 {
@@ -132,8 +115,6 @@ const projects = [
   image: 'https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg',
   alt: 'World Life Expectancy Project'
 }
-
-
 ];
 
 const projectsWrapper = document.getElementById('projectsWrapper');

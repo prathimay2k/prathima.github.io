@@ -20,63 +20,7 @@ const projects = [
   link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/Bus_Breakdown_and_Delays_NYC%20Project',
   image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
   alt: 'Excel NYC Bus Delay Analysis'
-},/*
- {
-  id: generateId(),
-  category: 'excel',
-  title: 'U.S. Debt Tracker Project - Data Analysis',
-  shortDesc: 'An Excel-based financial analysis project examining historical U.S. debt trends and forecasting future growth.',
-  longDesc: 'This project was developed for a Washington D.C.-based debt agency, aiming to analyze and predict trends in public and governmental debt. Using advanced Excel functions like TREND, LINEST, and Power Query, it provides insights into yearly debt percentage increases, seasonal fluctuations, and future projections.',
-  highlights: [
-    'Historical debt trend analysis',
-    'Regression modeling with LINEST',
-    'Interactive dashboards & charts',
-    'Forecasting future debt growth',
-    'Power Query for advanced data manipulation'
-  ],
-  link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/US%20Debt%20Tracker%20Project%20-%20Data%20Analysis',
-  image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
-  alt: 'Excel Debt Analysis Project'
 },
-
-{
-  id: generateId(),
-  category: 'excel',
-  title: 'LAPD Crime Statistics Dashboard',
-  shortDesc: 'An interactive Excel dashboard analyzing crime data reported by the LAPD from 2020 to present.',
-  longDesc: 'This project explores crime statistics reported by the Los Angeles Police Department from 2020 onwards. Using advanced Excel tools like Power Query, Pivot Tables, and dynamic charts, the dashboard enables users to filter and visualize data by year, gender, and crime type. The analysis reveals trends, totals, and demographic patterns in reported crimes, with a focus on clarity and interactivity.',
-  highlights: [
-    'Power Query for data cleaning and transformation',
-    'Pivot Tables and dynamic charting',
-    'Interactive filters by year and gender',
-    'Visual summary of crime categories and trends',
-    'Excel-based dashboard with professional layout'
-  ],
-  link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/Lapd-Crime-Statistics-Dashboard',
-  image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
-  alt: 'LAPD Crime Excel Dashboard'
-},
-
-{
-  id: generateId(),
-  category: 'excel',
-  title: 'Monthly Vehicle Crash Report Automation',
-  shortDesc: 'An Excel VBA macro project automating monthly vehicle crash reports for efficient data analysis.',
-  longDesc: 'This project automates the monthly reporting process for vehicle crash data using Excel VBA macros. It provides insights on crash times over a 24-hour period, unique accident addresses, total injured and deceased counts, and ranks contributing factors from highest to lowest. The automation reduces manual work and ensures consistent, timely reports for the client.',
-  highlights: [
-    'Automated report generation via VBA macros',
-    'Analysis of crash times over 24 hours',
-    'Identification of unique accident locations',
-    'Summary of total injured and dead',
-    'Ranking of contributing factors from highest to lowest'
-  ],
-  link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/Vehicle%20Crash%20Report%20Project',
-   image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
-  alt: 'Vehicle Crash Report VBA Macro'
-},
-*/
-
-
    /*PowerBI*/
   {
   id: generateId(),

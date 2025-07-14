@@ -8,7 +8,7 @@ const projects = [
   id: generateId(),
   category: 'excel',
   title: 'Healthcare Dashboard Analysis',
-  shortDesc: 'An Excel-based data analysis project to uncover root causes of bus breakdowns and delays in New York City.',
+  shortDesc: 'Excel-Based Root Cause Analysis of Health System Inefficiencies and Chronic Disease Impact.',
   longDesc: 'Hired by a regional healthcare organization, this project investigates patterns behind rising healthcare costs and patient health outcomes using real-world patient data. Leveraging Excel tools like Power Query, PivotTables, and advanced formulas, it answers key questions around cost drivers, disease prevalence, demographic trends, and hospital performance.',
   highlights: [
     'Root-cause analysis of healthcare costs using PivotTables',

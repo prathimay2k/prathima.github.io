@@ -7,7 +7,7 @@ const certificates = [
     id: generateId(),
     title: "Deloitte Australia Data Analytics Completion Certificate",
     description:
-      "Completed an intensive crash course on Python fundamentals geared toward technical interviews. Covered core concepts such as data types, control flow, functions, OOP, and real-world problem-solving using Python best practices.",
+      "Completed a Deloitte job simulation involving data analysis and forensic technology.Created a data dashboard using Tableau.Used Excel to classify data and draw business conclusions.",
     image:
       "https://prathimay2k.github.io/prathima.github.io/assets/deloittecertificate.jpg",
     link:
@@ -17,7 +17,7 @@ const certificates = [
     id: generateId(),
     title: "Quantium Data Analytics Completion Certificate",
     description:
-      "Completed an intensive crash course on Python fundamentals geared toward technical interviews. Covered core concepts such as data types, control flow, functions, OOP, and real-world problem-solving using Python best practices.",
+      "Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations..",
     image:
       "https://prathimay2k.github.io/prathima.github.io/assets/quantiumcertificate.jpg",
     link:

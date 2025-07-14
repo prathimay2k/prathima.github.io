@@ -40,7 +40,7 @@ const projects = [
   ],
   tools: ['Power BI Desktop', 'DAX', 'Power Query', 'GitHub'],
   link: 'https://github.com/prathimay2k/Sales_analysis_Dashboard',
-  image: 'https://github.com/prathimay2k/prathima.github.io/tree/main/assets/power-bi.png', // Replace with actual base64 of your Sales Dashboard image
+  image: 'https://github.com/prathimay2k/prathima.github.io/main/assets/power-bi.png', // Replace with actual base64 of your Sales Dashboard image
   alt: 'Sales KPI Dashboard'
 }
 ];

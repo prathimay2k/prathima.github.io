@@ -43,6 +43,25 @@ const projects = [
   image: 'https://github.com/prathimay2k/prathima.github.io/blob/main/assets/power-bi.png', // Replace with actual base64 of your Sales Dashboard image
   alt: 'Sales KPI Dashboard'
 }
+  /*SQL*/
+{
+  id: generateId(),
+  category: 'sql',
+  title: 'World Life Expectancy Data Cleaning & Analysis',
+  shortDesc: 'Cleans and analyzes global life expectancy data using advanced MySQL queries.',
+  longDesc: 'This project involves comprehensive data cleaning to remove duplicates and fill missing values in the world life expectancy dataset. It also performs exploratory data analysis (EDA) using advanced SQL features such as window functions, conditional logic, and aggregations to extract meaningful insights about life expectancy, GDP, BMI, and development status across countries.',
+  highlights: [
+    'Data cleaning with window functions (ROW_NUMBER)',
+    'Imputation of missing values using neighboring years',
+    'Exploratory Data Analysis (EDA) using SQL aggregation and window functions',
+    'Insights on life expectancy correlations with GDP, BMI, and country status'
+  ],
+  link: 'https://github.com/giraysengonul/SQL-Data-Analysis-Projects/tree/main/World-Life-Expectancy-Project',
+  image: 'https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg',
+  alt: 'World Life Expectancy Project'
+}
+
+
 ];
 
 const projectsWrapper = document.getElementById('projectsWrapper');

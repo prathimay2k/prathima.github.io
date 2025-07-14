@@ -19,7 +19,7 @@ const projects = [
   ],
   link: 'https://github.com/prathimay2k/Healthcare',
   image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
-  alt: 'Excel NYC Bus Delay Analysis'
+  alt: 'Excel Health Care Analysis'
 },
    /*PowerBI*/
   {

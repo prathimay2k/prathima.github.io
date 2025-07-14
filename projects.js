@@ -47,20 +47,24 @@ const projects = [
 {
   id: generateId(),
   category: 'sql',
-  title: 'World Life Expectancy Data Cleaning & Analysis',
-  shortDesc: 'Cleans and analyzes global life expectancy data using advanced MySQL queries.',
-  longDesc: 'This project involves comprehensive data cleaning to remove duplicates and fill missing values in the world life expectancy dataset. It also performs exploratory data analysis (EDA) using advanced SQL features such as window functions, conditional logic, and aggregations to extract meaningful insights about life expectancy, GDP, BMI, and development status across countries.',
+  title: 'Superstore SQL Data Analysis',
+  shortDesc: 'Analyzes Superstore sales and customer data using advanced SQL queries.',
+  longDesc: 'This project involves comprehensive data analysis of the Superstore dataset, focusing on key business metrics like total sales, profit, order processing time, and customer segmentation. It includes SQL queries for data cleaning, trend analysis, and performance metrics across different regions, categories, and time periods. The analysis also highlights repeat customers, negative profit orders, and identifies top products by profit.',
   highlights: [
-    'Data cleaning with window functions (ROW_NUMBER)',
-    'Imputation of missing values using neighboring years',
-    'Exploratory Data Analysis (EDA) using SQL aggregation and window functions',
-    'Insights on life expectancy correlations with GDP, BMI, and country status'
+    'Total sales, profit, and quantity by category analysis',
+    'Monthly sales trends and date format cleaning',
+    'Top 10 products by profit identification',
+    'State-wise sales and profit breakdown',
+    'Analysis of negative profit orders',
+    'Order processing time calculation',
+    'Sales analysis by segment and region',
+    'Profit ratio calculation (profit per sale)',
+    'Repeat customer analysis and yearly performance summary'
   ],
-  link: 'https://github.com/giraysengonul/SQL-Data-Analysis-Projects/tree/main/World-Life-Expectancy-Project',
+  link: 'https://github.com/prathimay2k/superstore/tree/main',
   image: 'https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg',
-  alt: 'World Life Expectancy Project'
+  alt: 'Superstore SQL Data Analysis Project'
 }
-
 
 ];
 

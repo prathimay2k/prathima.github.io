@@ -7,7 +7,7 @@ const projects = [
     {
   id: generateId(),
   category: 'excel',
-  title: 'NYC Bus Delay Analysis',
+  title: 'Healthcare Dashboard Analysis',
   shortDesc: 'An Excel-based data analysis project to uncover root causes of bus breakdowns and delays in New York City.',
   longDesc: 'Hired by the New York Division of Transportation, this project investigates patterns behind frequent delays and mechanical issues in the city’s bus fleet. Using Excel tools like Power Query, PivotTables, and analytical functions, it answers key questions about delay reasons, geographical and company-based variations, and weekday trends.',
   highlights: [
@@ -17,7 +17,7 @@ const projects = [
     'Weekday correlation analysis for delay frequency',
     'Interactive visualizations using charts and slicers'
   ],
-  link: 'https://github.com/giraysengonul/Excel-Data-Analysis-Projects/tree/main/Bus_Breakdown_and_Delays_NYC%20Project',
+  link: 'https://github.com/prathimay2k/Healthcare',
   image: 'https://cdn-icons-png.flaticon.com/512/732/732220.png',
   alt: 'Excel NYC Bus Delay Analysis'
 },
